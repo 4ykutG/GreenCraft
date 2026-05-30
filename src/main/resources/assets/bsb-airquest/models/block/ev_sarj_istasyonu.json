@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "bsb-airquest:block/ev_sarj_istasyonu_top",
+    "down": "bsb-airquest:block/ev_sarj_istasyonu_top",
+    "north": "bsb-airquest:block/ev_sarj_istasyonu_front",
+    "south": "bsb-airquest:block/ev_sarj_istasyonu_side",
+    "east": "bsb-airquest:block/ev_sarj_istasyonu_side",
+    "west": "bsb-airquest:block/ev_sarj_istasyonu_side",
+    "particle": "bsb-airquest:block/ev_sarj_istasyonu_side"
+  }
+}

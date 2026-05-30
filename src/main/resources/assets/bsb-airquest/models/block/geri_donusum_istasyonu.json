@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "bsb-airquest:block/geri_donusum_istasyonu_top",
+    "down": "bsb-airquest:block/geri_donusum_istasyonu_side",
+    "north": "bsb-airquest:block/geri_donusum_istasyonu_side",
+    "south": "bsb-airquest:block/geri_donusum_istasyonu_side",
+    "east": "bsb-airquest:block/geri_donusum_istasyonu_side",
+    "west": "bsb-airquest:block/geri_donusum_istasyonu_side",
+    "particle": "bsb-airquest:block/geri_donusum_istasyonu_side"
+  }
+}

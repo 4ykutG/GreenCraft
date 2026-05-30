@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "bsb-airquest:block/bisiklet_seridi_top",
+    "down": "bsb-airquest:block/bisiklet_seridi_side",
+    "north": "bsb-airquest:block/bisiklet_seridi_side",
+    "south": "bsb-airquest:block/bisiklet_seridi_side",
+    "east": "bsb-airquest:block/bisiklet_seridi_side",
+    "west": "bsb-airquest:block/bisiklet_seridi_side",
+    "particle": "bsb-airquest:block/bisiklet_seridi_side"
+  }
+}

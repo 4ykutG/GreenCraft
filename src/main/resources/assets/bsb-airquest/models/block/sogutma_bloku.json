@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "bsb-airquest:block/sogutma_bloku_top",
+    "down": "bsb-airquest:block/sogutma_bloku_side",
+    "north": "bsb-airquest:block/sogutma_bloku_side",
+    "south": "bsb-airquest:block/sogutma_bloku_side",
+    "east": "bsb-airquest:block/sogutma_bloku_side",
+    "west": "bsb-airquest:block/sogutma_bloku_side",
+    "particle": "bsb-airquest:block/sogutma_bloku_side"
+  }
+}

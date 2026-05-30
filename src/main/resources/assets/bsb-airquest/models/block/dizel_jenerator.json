@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "bsb-airquest:block/dizel_jenerator_top",
+    "down": "bsb-airquest:block/dizel_jenerator_bottom",
+    "north": "bsb-airquest:block/dizel_jenerator_front",
+    "south": "bsb-airquest:block/dizel_jenerator_side",
+    "east": "bsb-airquest:block/dizel_jenerator_side",
+    "west": "bsb-airquest:block/dizel_jenerator_side",
+    "particle": "bsb-airquest:block/dizel_jenerator_side"
+  }
+}

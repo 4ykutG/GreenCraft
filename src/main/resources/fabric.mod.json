@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "bsb-airquest",
+	"version": "${version}",
+	"name": "Ereğli: Yeşil Dönüşüm",
+	"description": "Karadeniz Ereğli'yi konu alan eğitsel ciddi oyun. Erdemir Fabrikası ve kentsel alanları çevre dostu hale getirerek Sürdürülebilirlik Puanı kazan!",
+	"authors": [
+		"BSB Airquest"
+	],
+	"contact": {},
+	"license": "CC0-1.0",
+	"icon": "assets/bsb-airquest/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.Bsbairquest"
+		],
+		"client": [
+			"com.example.client.BsbairquestClient"
+		]
+	},
+	"mixins": [
+		"bsb-airquest.mixins.json",
+		{
+			"config": "bsb-airquest.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

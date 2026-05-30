@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "bsb-airquest:block/yesil_alan_top",
+    "down": "bsb-airquest:block/yesil_alan_side",
+    "north": "bsb-airquest:block/yesil_alan_side",
+    "south": "bsb-airquest:block/yesil_alan_side",
+    "east": "bsb-airquest:block/yesil_alan_side",
+    "west": "bsb-airquest:block/yesil_alan_side",
+    "particle": "bsb-airquest:block/yesil_alan_side"
+  }
+}

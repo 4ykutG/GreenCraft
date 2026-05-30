@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "bsb-airquest:block/kirli_su_tanki_top",
+    "down": "bsb-airquest:block/kirli_su_tanki_side",
+    "north": "bsb-airquest:block/kirli_su_tanki_side",
+    "south": "bsb-airquest:block/kirli_su_tanki_side",
+    "east": "bsb-airquest:block/kirli_su_tanki_side",
+    "west": "bsb-airquest:block/kirli_su_tanki_side",
+    "particle": "bsb-airquest:block/kirli_su_tanki_side"
+  }
+}

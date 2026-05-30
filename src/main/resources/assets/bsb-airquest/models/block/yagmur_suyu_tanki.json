@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "bsb-airquest:block/yagmur_suyu_tanki_top",
+    "down": "bsb-airquest:block/yagmur_suyu_tanki_side",
+    "north": "bsb-airquest:block/yagmur_suyu_tanki_side",
+    "south": "bsb-airquest:block/yagmur_suyu_tanki_side",
+    "east": "bsb-airquest:block/yagmur_suyu_tanki_side",
+    "west": "bsb-airquest:block/yagmur_suyu_tanki_side",
+    "particle": "bsb-airquest:block/yagmur_suyu_tanki_side"
+  }
+}
