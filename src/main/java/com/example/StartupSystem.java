@@ -203,7 +203,6 @@ public final class StartupSystem {
         level.setBlock(pos, Blocks.CHEST.defaultBlockState(), 3);
 
         if (level.getBlockEntity(pos) instanceof ChestBlockEntity chest) {
-            chest.setCustomName(Component.literal("§6Görev Araçları Sandığı"));
             chest.setItem( 0, new ItemStack(Items.IRON_TRAPDOOR,    6));
             chest.setItem( 1, new ItemStack(Items.DAYLIGHT_DETECTOR,6));
             chest.setItem( 2, new ItemStack(Items.WATER_BUCKET,     3));
